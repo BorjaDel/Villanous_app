@@ -3,10 +3,9 @@ Selector de villano aleatorio para el juego de mesa Villanous.
 
 ---
 
-Hemos estado jugando el juego de mesa Villanous. Para que no haya problemas a la hora de repartir los villanos, por si varios quieren jugar con un villano en concreto, y tenía algo de tiempo libre... Me he puesto a escribir el código para un programa de Python al que se le den los nombres de los jugadores y les asigne aleatoriamente y villano con el que jugar la partida.
+Desde Reyes hemos estado jugando Villanous, juego de mesa en el que cada jugador es un villano de Disney. Desde la primera partida estuve pensando en si se podrían establecer los villanos de cada jugador de manera aleatoria para que no hubieran problemas si más de uno quería un villano en concreto.
 
-Luego he pensado que quedaría mejor crear una interfaz en la que aparezca la selección en lugar de sacarlo todo por consola. Así que me he puesto a investigar la librería `tkinter` y he creado una interfaz simple.
-
+Buscar un selector aleatorio en internet me pareció demasiado fácil, así que opté por crear uno yo mismo. Quería probarme y además trastear con la librería `tkinter`, que llevaba un tiempo queriendo echarle un vistazo.
 ---
 
 LinkedIn: [https://www.linkedin.com/in/borja-delgado-gonzalez/](https://www.linkedin.com/in/borja-delgado-gonzalez/)
