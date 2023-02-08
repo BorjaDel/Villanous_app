@@ -1,4 +1,4 @@
-# selector_de_villano
+# selector_de_villanous
 Selector de villano aleatorio para el juego de mesa Villanous.
 
 ---
