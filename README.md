@@ -7,6 +7,10 @@ Desde Reyes hemos estado jugando Villanous, juego de mesa en el que cada jugador
 
 Buscar un selector aleatorio en internet me pareción demasiado fácil, así que opté por crear uno yo mismo. Quería probarme y además trastear con la librería `tkinter`, que llevaba un tiempo queriendo echarle un vistazo.
 
+### 07/03/2023
+Nueva app utilizando la librería `customtkinter` para dar un toque visual más moderno.
+Además, pasamos a programación orientada a objeto para que el código sea más legible y fácil de corregir en un futuro si hubiera que hacerlo.
+
 ---
 
 LinkedIn: [https://www.linkedin.com/in/borja-delgado-gonzalez/](https://www.linkedin.com/in/borja-delgado-gonzalez/)
